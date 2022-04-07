@@ -11,3 +11,5 @@ Anh Luu check :>
 
 23/3/2022: Đã update thêm tính năng mới, không phải ctrl+v nữa mà chỉ cần nháy đúp vào là tự động chữ đã được copy sẽ in vào input nhé
 K thích thì ấn ctrl+z lại. Chốt sổ k thêm tính năng nào nữa cho input đâu, k thành app soạn thảo văn bản tiếng Anh mất!
+
+07/4/2022: Đi học giờ IT chán quá nên code thêm cái animation trông cho nó chân thực, so với bản t2s hồi lớp 7 thì chắc thiếu mỗi cái xuất file mà thật ra xuất làm gì, cứ để y nguyên là được
