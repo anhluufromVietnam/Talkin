@@ -1,1 +1,1 @@
-Createobject("SAPI.Spvoice").speak"You are cunt"
+Createobject("SAPI.Spvoice").speak"fuck you mom and put my dick in to her hole"
